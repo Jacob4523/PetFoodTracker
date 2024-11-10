@@ -1,6 +1,5 @@
 ## Pet Food Tracker
-Team Name: Pet Tracker
-Members: Jacob Gaffke
+Team Name: Pet Tracker  |  Members: Jacob Gaffke
 
 ## What is the Pet Food Tracker?
 
